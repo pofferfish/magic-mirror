@@ -4,6 +4,6 @@ var Main = require('./components/Main');
 
 
 ReactDOM.render(
-    Main,
+    <Main/>,
     document.getElementById('app')
 );
